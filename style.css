@@ -1,0 +1,198 @@
+h1{
+    line-height: 7rem;
+    font-family: 'Tilt Warp', cursive;
+    font-size:5rem;
+}
+
+.smile{
+    width: 1.5rem;
+}
+
+.navbar{
+    padding: 0 10rem;;
+}
+
+.navbar-brand{
+    padding: 1rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+    padding: 1rem;
+    margin: 5px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 0.2rem;
+    text-decoration-color: blue;
+    font-weight: bold;
+}
+
+.name{
+    color: rgb(37, 37, 231);
+}
+
+.coder{
+    color: rgb(37, 37, 231);
+}
+
+.hey{
+    position: absolute;
+    left: 0;
+    top: 14rem;
+    width: 15rem;
+}
+
+#home{
+    text-align: center;
+    margin: 0 10rem;
+}
+
+.icon{
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+#about{
+    margin: 0 10rem;
+}
+
+.about-h1{
+    text-align: center;
+    padding-top: 2rem;
+    color: blue;
+    
+}
+
+.about-h2{
+    text-align: center;
+    padding: 2rem;
+}
+
+.img{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.img-m{
+    border: 2rem;
+    border-style:inset;
+    border-color: rgb(44, 44, 157);
+    border-radius: 50rem;
+}
+
+.about-p{
+    line-height: 2rem;
+}
+
+#education{
+    text-align: center;
+}
+
+.edu-h{
+    color: blue;
+    padding: 2rem;
+    margin: 0 10rem 8px 10rem;
+}
+
+.edu-c{
+    text-decoration: none;
+    font-size: larger;
+    color: blue;
+}
+
+.edu-r{
+    border-style: none;
+    border-top: dotted;
+    border-width: 0.5rem;
+    width: 5rem;
+    align-items: center;
+    color: rgb(48, 47, 47);
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
+.edu-a{
+    margin: 0 30%;
+}
+
+.edu-n{
+    line-height: 0.2rem;
+    margin: 2rem;
+}
+
+#skill{
+    margin: 0 25rem;
+    line-height: 4rem;
+}
+
+.skill-h{
+    text-align: center;
+    padding: 2rem 0;
+    color: blue;
+}
+
+.icon-p{
+    width: 2rem;
+}
+
+.skill-b2{
+    text-align: center;
+}
+
+.skill-b3{
+    text-align: center;
+}
+
+.row{
+    margin: 1rem;
+}
+
+.stat-b{
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.cont-h1{
+    text-align: center;
+    color: blue;
+    padding: 2rem;
+}
+
+.cont-h2{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+
+.inpt-b{
+    padding: 1rem;
+    text-align: center;
+}
+
+.cont-bo{
+    border-radius: 8px;
+    border-color: blue;
+    padding: 0.6rem 1.5rem;
+}
+
+#last{
+    background-color: rgb(222, 221, 221);
+    margin: 0%;
+    line-height: 3rem;
+}
+
+.icon-l{
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+}
+
+.cr-p{
+    margin: 0%;
+}
