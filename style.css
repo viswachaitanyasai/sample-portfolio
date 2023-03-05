@@ -64,12 +64,13 @@ h1{
     text-align: center;
     padding-top: 2rem;
     color: blue;
-    
+    font-family: 'Tilt Warp', cursive;
 }
 
 .about-h2{
     text-align: center;
     padding: 2rem;
+    font-family: 'Itim', cursive;
 }
 
 .img{
@@ -86,8 +87,9 @@ h1{
 
 .about-p{
     line-height: 2rem;
+    font-size:small;
+    font-family: 'Open Sans', sans-serif;
 }
-
 #education{
     text-align: center;
 }
@@ -96,12 +98,14 @@ h1{
     color: blue;
     padding: 2rem;
     margin: 0 10rem 8px 10rem;
+    font-family: 'Tilt Warp', cursive;
 }
 
 .edu-c{
     text-decoration: none;
     font-size: larger;
     color: blue;
+    font-family: 'Oswald', sans-serif;
 }
 
 .edu-r{
@@ -133,6 +137,7 @@ h1{
     text-align: center;
     padding: 2rem 0;
     color: blue;
+    font-family: 'Tilt Warp', cursive;
 }
 
 .icon-p{
@@ -151,20 +156,28 @@ h1{
     margin: 1rem;
 }
 
+#stat{
+    background-color: rgb(68, 68, 253);
+}
+
 .stat-b{
     text-align: center;
     padding: 1rem 0;
+    color: white;
+    font-family: 'Tilt Neon', cursive;
 }
 
 .cont-h1{
     text-align: center;
     color: blue;
     padding: 2rem;
+    font-family: 'Tilt Warp', cursive;
 }
 
 .cont-h2{
     text-align: center;
     padding-bottom: 1rem;
+    font-family: 'Itim', cursive;
 }
 
 
